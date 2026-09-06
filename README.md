@@ -100,6 +100,11 @@ La predicción se realizó utilizando la complejidad teórica de cada algoritmo.
 | Cuadrática | `O(n²)`     |            33,754,250 s |     No     |
 | Kadane     | `O(n)`      |                  3.04 s |     Sí     |
 
+## Resultados de consola
+
+En la siguiente imagen se muestran los resultados obtenidos al ejecutar el programa:
+
+![Resultados de consola](Resultados/resultados.png)
 
 ## Conclusiones
 
