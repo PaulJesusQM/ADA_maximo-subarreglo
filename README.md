@@ -15,17 +15,6 @@ Implementación y comparación de tres algoritmos para encontrar la suma máxima
 * **Sistema operativo:** Windows
 * **Estándar:** C++17
 
-### Compilación
-
-```bash
-g++ -std=c++17 -O2 main.cpp -o maximo
-```
-
-### Ejecución
-
-```bash
-./maximo
-```
 
 ## Implementaciones
 
