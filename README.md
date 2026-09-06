@@ -101,3 +101,16 @@ La predicción se realizó utilizando la complejidad teórica de cada algoritmo.
 | Kadane     | `O(n)`      |                  3.04 s |     Sí     |
 
 
+## Conclusiones
+
+* El algoritmo cúbico es el más lento, ya que su tiempo de ejecución aumenta rápidamente cuando aumenta el tamaño del arreglo.
+
+* El algoritmo cuadrático es más rápido que el cúbico porque evita repetir el cálculo de las sumas.
+
+* El algoritmo de Kadane es el más eficiente, ya que tiene un crecimiento lineal `O(n)`.
+
+* Al duplicar el tamaño del arreglo, los tiempos observados se aproximan al crecimiento esperado: `×8` para el algoritmo cúbico, `×4` para el cuadrático y un crecimiento mucho menor para Kadane.
+
+* Para arreglos muy grandes, como `n = 10^8`, Kadane es la opción más adecuada debido a su menor tiempo de ejecución.
+
+
